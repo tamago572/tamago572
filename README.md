@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 #### Applications
 
-![](https://skillicons.dev/icons?i=docker,vscode,visualstudio,pycharm,cloudflare,mysql,github)
+![](https://skillicons.dev/icons?i=docker,vscode,visualstudio,pycharm,cloudflare,mysql,github,ai,ps,pr,ae)
 
+#### Operating Systems
 
+![](https://skillicons.dev/icons?i=windows,apple,ubuntu)
