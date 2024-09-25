@@ -23,4 +23,16 @@ Here are some ideas to get you started:
 
 ### 愛用品
 
-![](https://skillicons.dev/icons?i=html,css,js,python,cs,bootstrap,docker,nodejs,express,django,rails,unity,vscode,pycharm,cloudflare,mysql)
+#### Languages
+
+![](https://skillicons.dev/icons?i=html,css,js,python,cs)
+
+#### Library & Frameworks
+
+![](https://skillicons.dev/icons?i=bootstrap,nodejs,express,django,rails,unity)
+
+#### Applications
+
+![](https://skillicons.dev/icons?i=docker,vscode,visualstudio,pycharm,cloudflare,mysql,github)
+
+
