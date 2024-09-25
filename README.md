@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 ツールやアプリを作ることが多いです。（ゲームはあまり）ないです
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamago572)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago572)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamago572)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 愛用品
+
+![](https://skillicons.dev/icons?i=html,css,js,python,cs,bootstrap,docker,nodejs,express,django,rails,unity,vscode,pycharm,cloudflare,mysql)
