@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-主にJavaScript・Python・C#を書きます。
+JSとTSが大好きです。Pythonも結構好きです。
 
-ツールやアプリを作ることが多いです。（ゲームはあまり）ないです
+Webアプリ、ツールを作ることが多いです。（ゲームはあまり）ないです
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamago572)](https://github.com/anuraghazra/github-readme-stats)
 
