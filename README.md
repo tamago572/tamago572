@@ -25,15 +25,15 @@ Webアプリ、ツールを作ることが多いです。（ゲームはあま�
 
 #### Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,python,cs)
+![](https://skillicons.dev/icons?i=html,css,js,ts,python,cs,ruby)
 
 #### Library & Frameworks
 
-![](https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,nextjs,express,django,rails,unity)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,rails,unity)
 
 #### Applications
 
-![](https://skillicons.dev/icons?i=docker,vscode,visualstudio,pycharm,cloudflare,mysql,github,ai,ps,pr,ae)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,docker,gcp,cloudflare,mysql,github,ai,ps,pr,ae)
 
 #### Operating Systems
 
