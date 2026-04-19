@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-JSとTSが大好きです。Pythonも結構好きです。
+TSとC#が好きなWeb開発者兼動画編集者兼初心者Modeler
 
-Webアプリ、ツールを作ることが多いです。（ゲームはあまり）ないです
+Webアプリ、ツールを作ることが多いです。
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamago572)](https://github.com/anuraghazra/github-readme-stats)
 
